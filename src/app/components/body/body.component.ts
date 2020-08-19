@@ -9,7 +9,7 @@ export class BodyComponent{
 
     mostrar = true; 
 
-    heroes = [
+    heroes : string[] = [
         "Spiderman",
         "Batman",
         "Flash",
